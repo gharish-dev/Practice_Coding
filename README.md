@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/gharish-dev/Practice_Coding/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
