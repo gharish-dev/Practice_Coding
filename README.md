@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gharish-dev/Practice_Coding/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gharish-dev/Practice_Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gharish-dev/Practice_Coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gharish-dev/Practice_Coding/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gharish-dev/Practice_Coding/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gharish-dev/Practice_Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1095-find-in-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
