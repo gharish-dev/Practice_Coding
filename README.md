@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gharish-dev/Practice_Coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/gharish-dev/Practice_Coding/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gharish-dev/Practice_Coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/gharish-dev/Practice_Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/gharish-dev/Practice_Coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gharish-dev/Practice_Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gharish-dev/Practice_Coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/gharish-dev/Practice_Coding/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gharish-dev/Practice_Coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/gharish-dev/Practice_Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/gharish-dev/Practice_Coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gharish-dev/Practice_Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
