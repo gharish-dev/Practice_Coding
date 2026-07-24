@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/gharish-dev/Practice_Coding/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/gharish-dev/Practice_Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
 | [1331-rank-transform-of-an-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1331-rank-transform-of-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/gharish-dev/Practice_Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/gharish-dev/Practice_Coding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
