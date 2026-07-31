@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
 | [1331-rank-transform-of-an-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1331-rank-transform-of-an-array) |
+| [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Counting
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
+| [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Design
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/gharish-dev/Practice_Coding/tree/master/0240-search-a-2d-matrix-ii) |
+| [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 ## Database
 |  |
 | ------- |
@@ -161,4 +164,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/gharish-dev/Practice_Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
+| [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
