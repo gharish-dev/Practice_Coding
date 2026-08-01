@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gharish-dev/Practice_Coding/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gharish-dev/Practice_Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1095-find-in-mountain-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gharish-dev/Practice_Coding/tree/master/0410-split-array-largest-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/gharish-dev/Practice_Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
