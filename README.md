@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/gharish-dev/Practice_Coding/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/gharish-dev/Practice_Coding/tree/master/0182-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/gharish-dev/Practice_Coding/tree/master/0610-triangle-judgement) |
 ## Sliding Window
 |  |
