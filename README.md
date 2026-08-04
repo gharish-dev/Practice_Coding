@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/gharish-dev/Practice_Coding/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gharish-dev/Practice_Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1095-find-in-mountain-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gharish-dev/Practice_Coding/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
@@ -186,16 +188,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -204,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
