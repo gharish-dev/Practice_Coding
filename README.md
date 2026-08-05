@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/gharish-dev/Practice_Coding/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
+| [0992-subarrays-with-k-different-integers](https://github.com/gharish-dev/Practice_Coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gharish-dev/Practice_Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/gharish-dev/Practice_Coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
+| [0992-subarrays-with-k-different-integers](https://github.com/gharish-dev/Practice_Coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/gharish-dev/Practice_Coding/tree/master/0594-longest-harmonious-subsequence) |
+| [0992-subarrays-with-k-different-integers](https://github.com/gharish-dev/Practice_Coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gharish-dev/Practice_Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/gharish-dev/Practice_Coding/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
+| [0992-subarrays-with-k-different-integers](https://github.com/gharish-dev/Practice_Coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
