@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/gharish-dev/Practice_Coding/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/gharish-dev/Practice_Coding/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/gharish-dev/Practice_Coding/tree/master/0620-not-boring-movies) |
+| [1321-restaurant-growth](https://github.com/gharish-dev/Practice_Coding/tree/master/1321-restaurant-growth) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gharish-dev/Practice_Coding/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
 |  |
