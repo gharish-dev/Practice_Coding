@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gharish-dev/Practice_Coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gharish-dev/Practice_Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/gharish-dev/Practice_Coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/gharish-dev/Practice_Coding/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gharish-dev/Practice_Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/gharish-dev/Practice_Coding/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/gharish-dev/Practice_Coding/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/gharish-dev/Practice_Coding/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Brute-Force Search
 |  |
 | ------- |
