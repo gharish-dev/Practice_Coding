@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/gharish-dev/Practice_Coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gharish-dev/Practice_Coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Counting
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gharish-dev/Practice_Coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Design
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gharish-dev/Practice_Coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/gharish-dev/Practice_Coding/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Bit Manipulation
