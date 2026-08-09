@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/gharish-dev/Practice_Coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gharish-dev/Practice_Coding/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/gharish-dev/Practice_Coding/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/gharish-dev/Practice_Coding/tree/master/0441-arranging-coins) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/gharish-dev/Practice_Coding/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
