@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/gharish-dev/Practice_Coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gharish-dev/Practice_Coding/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/gharish-dev/Practice_Coding/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/gharish-dev/Practice_Coding/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/gharish-dev/Practice_Coding/tree/master/0441-arranging-coins) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1248-count-number-of-nice-subarrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gharish-dev/Practice_Coding/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/gharish-dev/Practice_Coding/tree/master/0410-split-array-largest-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
 ## Greedy
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gharish-dev/Practice_Coding/tree/master/0050-powx-n) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gharish-dev/Practice_Coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
