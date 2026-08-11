@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gharish-dev/Practice_Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1095-find-in-mountain-array) |
+| [1268-search-suggestions-system](https://github.com/gharish-dev/Practice_Coding/tree/master/1268-search-suggestions-system) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gharish-dev/Practice_Coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/gharish-dev/Practice_Coding/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gharish-dev/Practice_Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1248-count-number-of-nice-subarrays) |
+| [1268-search-suggestions-system](https://github.com/gharish-dev/Practice_Coding/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gharish-dev/Practice_Coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/gharish-dev/Practice_Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/gharish-dev/Practice_Coding/tree/master/0594-longest-harmonious-subsequence) |
+| [1268-search-suggestions-system](https://github.com/gharish-dev/Practice_Coding/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/gharish-dev/Practice_Coding/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/gharish-dev/Practice_Coding/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/gharish-dev/Practice_Coding/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/gharish-dev/Practice_Coding/tree/master/0981-time-based-key-value-store) |
+| [1268-search-suggestions-system](https://github.com/gharish-dev/Practice_Coding/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gharish-dev/Practice_Coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/gharish-dev/Practice_Coding/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gharish-dev/Practice_Coding/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1268-search-suggestions-system](https://github.com/gharish-dev/Practice_Coding/tree/master/1268-search-suggestions-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -248,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gharish-dev/Practice_Coding/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/gharish-dev/Practice_Coding/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
