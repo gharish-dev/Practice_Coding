@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gharish-dev/Practice_Coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gharish-dev/Practice_Coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gharish-dev/Practice_Coding/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/gharish-dev/Practice_Coding/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/gharish-dev/Practice_Coding/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/gharish-dev/Practice_Coding/tree/master/0441-arranging-coins) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1248-count-number-of-nice-subarrays) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gharish-dev/Practice_Coding/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/gharish-dev/Practice_Coding/tree/master/0326-power-of-three) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/gharish-dev/Practice_Coding/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
