@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/gharish-dev/Practice_Coding/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/gharish-dev/Practice_Coding/tree/master/0441-arranging-coins) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gharish-dev/Practice_Coding/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/gharish-dev/Practice_Coding/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/gharish-dev/Practice_Coding/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gharish-dev/Practice_Coding/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/gharish-dev/Practice_Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gharish-dev/Practice_Coding/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/gharish-dev/Practice_Coding/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/gharish-dev/Practice_Coding/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
