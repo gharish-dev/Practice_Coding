@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gharish-dev/Practice_Coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gharish-dev/Practice_Coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gharish-dev/Practice_Coding/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/gharish-dev/Practice_Coding/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/gharish-dev/Practice_Coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/gharish-dev/Practice_Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gharish-dev/Practice_Coding/tree/master/0342-power-of-four) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gharish-dev/Practice_Coding/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/gharish-dev/Practice_Coding/tree/master/0096-unique-binary-search-trees) |
 | [0410-split-array-largest-sum](https://github.com/gharish-dev/Practice_Coding/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/gharish-dev/Practice_Coding/tree/master/0413-arithmetic-slices) |
 | [0978-longest-turbulent-subarray](https://github.com/gharish-dev/Practice_Coding/tree/master/0978-longest-turbulent-subarray) |
@@ -282,4 +284,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/gharish-dev/Practice_Coding/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/gharish-dev/Practice_Coding/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/gharish-dev/Practice_Coding/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/gharish-dev/Practice_Coding/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
