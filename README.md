@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gharish-dev/Practice_Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gharish-dev/Practice_Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/gharish-dev/Practice_Coding/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/gharish-dev/Practice_Coding/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gharish-dev/Practice_Coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gharish-dev/Practice_Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gharish-dev/Practice_Coding/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gharish-dev/Practice_Coding/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/gharish-dev/Practice_Coding/tree/master/0342-power-of-four) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gharish-dev/Practice_Coding/tree/master/0096-unique-binary-search-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gharish-dev/Practice_Coding/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
