@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gharish-dev/Practice_Coding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gharish-dev/Practice_Coding/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/gharish-dev/Practice_Coding/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/gharish-dev/Practice_Coding/tree/master/0401-binary-watch) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/gharish-dev/Practice_Coding/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1763-longest-nice-substring](https://github.com/gharish-dev/Practice_Coding/tree/master/1763-longest-nice-substring) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/gharish-dev/Practice_Coding/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -313,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/gharish-dev/Practice_Coding/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/gharish-dev/Practice_Coding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gharish-dev/Practice_Coding/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/gharish-dev/Practice_Coding/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
