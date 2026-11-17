@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gharish-dev/Practice_Coding/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gharish-dev/Practice_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gharish-dev/Practice_Coding/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gharish-dev/Practice_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -324,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/gharish-dev/Practice_Coding/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/gharish-dev/Practice_Coding/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/gharish-dev/Practice_Coding/tree/master/0401-binary-watch) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gharish-dev/Practice_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gharish-dev/Practice_Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
